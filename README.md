@@ -4,5 +4,3 @@ This study addresses the ethical implications of using neural networks for skin 
 The accompanying poster used to present this project at the International Science and Engineering Fair (ISEF) in 2024 can be found in the file entitled _ISEF_poster_2024_
 
 A quad chart for this project can be found in the file entitled _ISEF_quad_2024_
-
-A 2 minute video description can be found in the file entitled _ISEF_video_2024_

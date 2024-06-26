@@ -4,7 +4,7 @@ This study addresses the ethical implications of using neural networks for skin 
 To request access to the generated images, fill out this [google form](https://forms.gle/DZB8Uo5aC7XsBXcG9).
 
 In the presentations folder:
-- **_checklist.pdf_:** NeurIPS checklist of pre-print paper
+- **_Checklist.pdf_:** NeurIPS checklist of pre-print paper
 - **_ISEF_poster.pdf_:** trifold poster used to present at the International Science and Engineering Fair (ISEF)
 - **_pre_print.pdf_:** pre-print paper submitted to NeurIPS call for high school papers
 - **_quad_chart.png_:** quad chart summarizing the project
